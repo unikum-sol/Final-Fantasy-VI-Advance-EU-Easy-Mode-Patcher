@@ -1,4 +1,6 @@
-# FF6A-Patcher
+# Final Fantasy VI Advance (EU) - Easy Mode Patcher
+
+Programmname: `FF6A-Patcher`
 
 Patch für **Final Fantasy VI Advance (Europe) (En,Fr,De,Es,It)**:
 
