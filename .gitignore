@@ -1,0 +1,20 @@
+# Build-Zwischendateien
+src/bin/
+src/obj/
+
+# Kompilierte Programme und Release-Pakete (gehören in GitHub-Releases, nicht ins Repo)
+dist/
+releases/
+
+# ROMs und Spielstände niemals einchecken
+*.gba
+*.sav
+*.ss[0-9]
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
